@@ -1,0 +1,2 @@
+password incrpting:
+bycrpyt js //npm pkgs
